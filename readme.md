@@ -29,6 +29,13 @@ the crowdHuman Dataset can be downloaed here [CrowdHuman](https://www.crowdhuman
 ![Alt text](demo.jpg?raw=true "Person detection")
 
 
+## Pretrained Model
+
+if you want to use the pretrained model, please download, create a folder named checkpoint and put it inside
+[Pretrained_model](https://www.dropbox.com/s/hyc453tmlskz8of/efficient_model_L_7.pth?dl=0)
+
+
+
 ## Training (once you have downlaoded the dataset)
 
 python3 Train.py
